@@ -1,0 +1,11 @@
+body{
+background-color: gold;
+}
+#text1{color: red;
+    text-align: center;}
+#text2{background-color: orange;color: red;
+    text-align: center;}
+h3{color: red;}
+#text3{font-size:475%;border:2px solid red;
+     text-algin:center;}
+p.center{text-align: center;}
